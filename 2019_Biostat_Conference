@@ -1,13 +1,13 @@
-2019.11.15 임상시험 및 연구를 위한 산관학 공동 통계 컨퍼런스
+# 2019.11.15 임상시험 및 연구를 위한 산관학 공동 통계 컨퍼런스
 
-Info
+## Info
 행사 장소: 2019.11.15. 청담 프리마호텔 그랜드볼룸
 주최: 한국임상개발연구회, 한국통계학화, Korea Region IBS
 주관: 식품의약품안전평가원 
 
-Conference Summary
+## Conference Summary
 
-I. Analysis of Longitudinal Data from Clinical Trials: Review
+### I. Analysis of Longitudinal Data from Clinical Trials: Review
 Presentation by 이근백(성균관대학교)
 1. Analysis of Longitudinal Data
 Marginal model approach: linear model, generalized estimating equation for population-averaged effects
@@ -38,7 +38,7 @@ For Longitudinal Categorical Data: GEE, GLMM(Generalized Linear Mixed Model)
    - EM algorithm, Monte Carlo EM, Monte Carlo Newton-Rapahson for maximization of likelihood 
    - PQL(Penalized quasi-likelihood), Bias-Corrected PQL, Linearization for approximate likelihood
 
-II. Introduction to Bayesian Early Phase(phase I/II) Clinical Trial
+### II. Introduction to Bayesian Early Phase(phase I/II) Clinical Trial
 Presentation by 진익훈(연세대학교)
 
 1. Single-agent Phase I Trials
@@ -60,7 +60,7 @@ Presentation by 진익훈(연세대학교)
  - Safety: % of simulated trials in which a toxic dose with the true DLT probability >= 33% is selected as the MTD
  - Reliability: Risk of overdosing, risk of poor allocation, risk of irrational dose assignment 
 
-IV. Update of Adaptive Design Guidance for Innovative Trial
+### IV. Update of Adaptive Design Guidance for Innovative Trial
 Presentation by 이정복(서울아산병원 & 울산의대)
 
 1. 관련 규제기관(e.g, US FDA) 문서
@@ -108,7 +108,7 @@ M5. inimizing Operational Bias
  - should limit the access to outcomes by coded or unblinded treatment groups 
  - Precise details of the adaptation algorithm은 investigator에게 제공되는 Protocol과 분리되어 작성해야 함 
 
-V. 규제기관에서의 임사통계 심사기준 및 방향
+### V. 규제기관에서의 임사통계 심사기준 및 방향
 Presentation by 박봉서(식품의약품안전평가원 의약품심사부)
 1. 임상통계 보완사례집('19.10)
  - [안내서-0982-01]임상통계+보완사례집.pdf
